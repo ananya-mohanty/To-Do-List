@@ -81,7 +81,7 @@ body {
     background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
-    color: #888;
+    color: rgb(10, 4, 4);
   }
   input[type="text"]:focus {
     color: #333;
@@ -94,7 +94,8 @@ body {
   }
   input#new-task {
     float: left;
-    width: 318px;
+    width: 500px;
+    height: 40px;
   }
   p > button:hover {
     color: rgb(28, 44, 108);
